@@ -1,0 +1,9 @@
+INICIO
+
+real:TotalReais,CotaDolar,TotalDolar
+imprima:"Quantidade de Reais"
+leia(TotalReais)
+
+TotalDolar <- TotalReais*CotaDolar
+
+Imprima("Nota Final",TotalDolar)

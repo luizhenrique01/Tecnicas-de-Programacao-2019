@@ -1,0 +1,14 @@
+
+Início
+      real:quilo1,peso2
+      
+      imprima("Digite o valor da 1ª etapa: ")
+      leia(valor 1)
+      imprima("Digite o valor da 2ª etapa: ")
+      leia(valor 2)  
+
+      total <-- valor1+ valor 2
+      
+      imprima("Valor final:",total)
+
+Fim

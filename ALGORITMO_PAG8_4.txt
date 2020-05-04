@@ -1,0 +1,14 @@
+inicio
+
+real: base, altura, valor_da_area; 
+
+imprima("Digite o valor da base:");
+leia(base);
+imprima("Digite o valor da altura:");
+leia(altura);
+
+valor_da_area -> base * altura;
+
+imprima("Area do retangulo:", valor_da_area):
+
+fim.

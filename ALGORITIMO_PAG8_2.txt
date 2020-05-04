@@ -1,0 +1,8 @@
+INICIO
+
+Real: Litro,PrecoFixo,Total
+Imprima("Digite o valor")
+leia(Litro;PrecoFixo)
+Imprima(Dinheiro Total)
+
+FIM

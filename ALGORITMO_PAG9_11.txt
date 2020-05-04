@@ -1,0 +1,12 @@
+inicio
+
+real: valor_de_x, valor_de_fx
+
+imprima("Digite o valor de x:");
+leia(valor_de_x); 
+
+valor_de_fx -> 2 * valor_de_x + 1
+
+imprima("Valor de f(x):", valor_de_fx):
+
+fim.
