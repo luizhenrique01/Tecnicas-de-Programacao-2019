@@ -1,0 +1,10 @@
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\bin\Debug\Tabuada completa.exe.config
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\bin\Debug\Tabuada completa.exe
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\bin\Debug\Tabuada completa.pdb
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\obj\Debug\Tabuada completa.csprojAssemblyReference.cache
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\obj\Debug\Tabuada_completa.Properties.Resources.resources
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\obj\Debug\Tabuada completa.csproj.GenerateResource.cache
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\obj\Debug\Tabuada completa.csproj.CoreCompileInputs.cache
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\obj\Debug\Tabuada completa.exe
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\obj\Debug\Tabuada completa.pdb
+H:\TEP\Segundo_Trimestre\C#\Tabuada_Completa_34\Tabuada completa\obj\Debug\Tabuada_completa.Tabuada.resources

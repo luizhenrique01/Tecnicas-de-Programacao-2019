@@ -1,0 +1,10 @@
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\bin\Debug\Atividade8_AA_34.exe.config
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\bin\Debug\Atividade8_AA_34.exe
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\bin\Debug\Atividade8_AA_34.pdb
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\obj\Debug\Atividade8_AA_34.csprojAssemblyReference.cache
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\obj\Debug\Atividade8_AA_34.Form1.resources
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\obj\Debug\Atividade8_AA_34.Properties.Resources.resources
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\obj\Debug\Atividade8_AA_34.csproj.GenerateResource.cache
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\obj\Debug\Atividade8_AA_34.csproj.CoreCompileInputs.cache
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\obj\Debug\Atividade8_AA_34.exe
+H:\visual studio 2017\Atividade8_AA_34\Atividade8_AA_34\obj\Debug\Atividade8_AA_34.pdb

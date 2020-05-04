@@ -1,0 +1,14 @@
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.csprojAssemblyReference.cache
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.Frm_Aluno.resources
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.frm_menu.resources
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.Properties.Resources.resources
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.frm_menu.aa.resources
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.csproj.GenerateResource.cache
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.csproj.CoreCompileInputs.cache
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\bin\Debug\Layout_34.exe.config
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\bin\Debug\Layout_34.exe
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\bin\Debug\Layout_34.pdb
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\bin\Debug\aa\Layout_34.resources.dll
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\aa\Layout_34.resources.dll
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.exe
+H:\TEP\Segundo_Trimestre\C#\Layout_34\Layout_34\obj\Debug\Layout_34.pdb

@@ -1,0 +1,5 @@
+H:\TEP\Primeiro_Trimestre\C#\Ex6_pag8_34\Ex6_pag8_34\obj\Debug\Ex6_pag8_34.csprojAssemblyReference.cache
+H:\TEP\Primeiro_Trimestre\C#\Ex6_pag8_34\Ex6_pag8_34\obj\Debug\Ex6_pag8_34.Form1.resources
+H:\TEP\Primeiro_Trimestre\C#\Ex6_pag8_34\Ex6_pag8_34\obj\Debug\Ex6_pag8_34.Properties.Resources.resources
+H:\TEP\Primeiro_Trimestre\C#\Ex6_pag8_34\Ex6_pag8_34\obj\Debug\Ex6_pag8_34.csproj.GenerateResource.cache
+H:\TEP\Primeiro_Trimestre\C#\Ex6_pag8_34\Ex6_pag8_34\obj\Debug\Ex6_pag8_34.csproj.CoreCompileInputs.cache

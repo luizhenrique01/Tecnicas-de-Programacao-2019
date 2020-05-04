@@ -1,0 +1,10 @@
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\obj\Debug\Exercicio1_pag20_34.csprojAssemblyReference.cache
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\obj\Debug\Exercicio1_pag20_34.Form1.resources
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\obj\Debug\Exercicio1_pag20_34.Properties.Resources.resources
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\obj\Debug\Exercicio1_pag20_34.csproj.GenerateResource.cache
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\obj\Debug\Exercicio1_pag20_34.csproj.CoreCompileInputs.cache
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\bin\Debug\Exercicio1_pag20_34.exe.config
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\bin\Debug\Exercicio1_pag20_34.exe
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\bin\Debug\Exercicio1_pag20_34.pdb
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\obj\Debug\Exercicio1_pag20_34.exe
+H:\TEP\Primeiro_Trimestre\C#\Exercicio1_pag20_34\Exercicio1_pag20_34\obj\Debug\Exercicio1_pag20_34.pdb

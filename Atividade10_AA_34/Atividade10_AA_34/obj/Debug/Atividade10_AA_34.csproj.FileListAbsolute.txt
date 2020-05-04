@@ -1,0 +1,10 @@
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\bin\Debug\Atividade10_AA_34.exe.config
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\bin\Debug\Atividade10_AA_34.exe
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\bin\Debug\Atividade10_AA_34.pdb
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\obj\Debug\Atividade10_AA_34.csprojAssemblyReference.cache
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\obj\Debug\Atividade10_AA_34.Form1.resources
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\obj\Debug\Atividade10_AA_34.Properties.Resources.resources
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\obj\Debug\Atividade10_AA_34.csproj.GenerateResource.cache
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\obj\Debug\Atividade10_AA_34.csproj.CoreCompileInputs.cache
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\obj\Debug\Atividade10_AA_34.exe
+H:\TEP\Segundo_Trimestre\C#\Atividades\Atividade10_AA_34\Atividade10_AA_34\obj\Debug\Atividade10_AA_34.pdb

@@ -1,0 +1,10 @@
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\bin\Debug\AtividadeWhile_34.exe.config
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\bin\Debug\AtividadeWhile_34.exe
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\bin\Debug\AtividadeWhile_34.pdb
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\obj\Debug\AtividadeWhile_34.csprojAssemblyReference.cache
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\obj\Debug\AtividadeWhile_34.Properties.Resources.resources
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\obj\Debug\AtividadeWhile_34.csproj.GenerateResource.cache
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\obj\Debug\AtividadeWhile_34.csproj.CoreCompileInputs.cache
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\obj\Debug\AtividadeWhile_34.exe
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\obj\Debug\AtividadeWhile_34.pdb
+H:\TEP\Segundo_Trimestre\C#\AtividadeWhile_34\AtividadeWhile_34\obj\Debug\AtividadeWhile_34.Calculo_num.resources

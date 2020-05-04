@@ -1,0 +1,10 @@
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\obj\Debug\While2_34.csprojAssemblyReference.cache
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\obj\Debug\While2_34.Form1.resources
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\obj\Debug\While2_34.Properties.Resources.resources
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\obj\Debug\While2_34.csproj.GenerateResource.cache
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\obj\Debug\While2_34.csproj.CoreCompileInputs.cache
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\bin\Debug\While2_34.exe.config
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\bin\Debug\While2_34.exe
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\bin\Debug\While2_34.pdb
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\obj\Debug\While2_34.exe
+H:\TEP\Segundo_Trimestre\C#\While2_34\While2_34\obj\Debug\While2_34.pdb

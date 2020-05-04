@@ -1,0 +1,10 @@
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\bin\Debug\1).exe.config
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\bin\Debug\1).exe
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\bin\Debug\1).pdb
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\obj\Debug\1).csprojAssemblyReference.cache
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\obj\Debug\_1_.Form1.resources
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\obj\Debug\_1_.Properties.Resources.resources
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\obj\Debug\1).csproj.GenerateResource.cache
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\obj\Debug\1).csproj.CoreCompileInputs.cache
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\obj\Debug\1).exe
+H:\TEP\Segundo_Trimestre\C#\DoWhile\1)\1)\obj\Debug\1).pdb
